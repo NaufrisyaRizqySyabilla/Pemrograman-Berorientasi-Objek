@@ -29,6 +29,6 @@ public class LatihPerhitungan {
 /*
 Naufrisya Rizqy Syabilla
 D1041241081
-Kamis, 13 Februari 2025
+Jumat, 13 Februari 2025
  */
 
