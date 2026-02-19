@@ -24,5 +24,5 @@ public class p023PrimitiveData {
 /*
 Naufrisya Rizqy Syabilla
 D1041241081
-Kamis, 12 Februari 2025
+Kamis, 12 Februari 2026
  */
