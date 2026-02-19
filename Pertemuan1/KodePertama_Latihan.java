@@ -10,5 +10,5 @@ public class KodePertama_Latihan {
 /*
 Naufrisya Rizqy Syabilla
 D1041241081
-Kamis, 5 Februari 2025
+Kamis, 5 Februari 2026
  */
